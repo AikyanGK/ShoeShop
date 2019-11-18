@@ -1,0 +1,50 @@
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe.config
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\bin\Debug\ShoeShop.pdb
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csprojResolveAssemblyReference.cache
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\obj\Debug\ShoeShop.catalog.resources
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\obj\Debug\ShoeShop.Form1.resources
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\obj\Debug\ShoeShop.Properties.Resources.resources
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.GenerateResource.Cache
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\obj\Debug\ShoeShop.exe
+c:\users\201814103\documents\visual studio 2013\Projects\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pdb
+F:\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe.config
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.exe
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pdb
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.cashout.resources
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.catalog.resources
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.info.resources
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pregrem.resources
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.Properties.Resources.resources
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.GenerateResource.Cache
+F:\DBMS\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe.config
+F:\DBMS\ShoeShop\ShoeShop\obj\Debug\ShoeShop.exe
+F:\DBMS\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe
+F:\DBMS\ShoeShop\ShoeShop\bin\Debug\ShoeShop.pdb
+F:\DBMS\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csprojResolveAssemblyReference.cache
+F:\DBMS\ShoeShop\ShoeShop\obj\Debug\ShoeShop.cashout.resources
+F:\DBMS\ShoeShop\ShoeShop\obj\Debug\ShoeShop.catalog.resources
+F:\DBMS\ShoeShop\ShoeShop\obj\Debug\ShoeShop.info.resources
+F:\DBMS\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pregrem.resources
+F:\DBMS\ShoeShop\ShoeShop\obj\Debug\ShoeShop.Properties.Resources.resources
+F:\DBMS\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.GenerateResource.Cache
+F:\DBMS\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pdb
+F:\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe
+F:\ShoeShop\ShoeShop\bin\Debug\ShoeShop.pdb
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.loading.resources
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.receipt.resources
+F:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csprojResolveAssemblyReference.cache
+E:\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe.config
+E:\ShoeShop\ShoeShop\bin\Debug\ShoeShop.exe
+E:\ShoeShop\ShoeShop\bin\Debug\ShoeShop.pdb
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csprojAssemblyReference.cache
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.cashout.resources
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.catalog.resources
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.info.resources
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.loading.resources
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pregrem.resources
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.Properties.Resources.resources
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.receipt.resources
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.csproj.GenerateResource.cache
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.exe
+E:\ShoeShop\ShoeShop\obj\Debug\ShoeShop.pdb
